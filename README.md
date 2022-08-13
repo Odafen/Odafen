@@ -1,3 +1,4 @@
+[CVm.pdf](https://github.com/Odafen/Odafen/files/9332398/CVm.pdf)
 - 👋 Hi, I’m @Odafen
 - 👀 I’m interested in product management, project management, data analysis and product design
 - 🌱 I’m currently learning product design and business intelligence
